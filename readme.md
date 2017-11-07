@@ -1,3 +1,11 @@
+# Simple example RESTful API on Laravel for backend
+
+How use :
+You can send request from front-end (example JavaScript) on your API backend default : http://site.com/api/{method} with get parametrs.
+After processing by the server, returned Status Code of request and text (or parametrs).
+You can use this parametrs on front-end.
+New methods you can create on routes.php, main controller is ApiController.
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
